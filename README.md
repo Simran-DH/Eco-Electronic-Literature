@@ -1,2 +1,2 @@
-# Eco-Electronic-Literature
-This repo consists of my digital works that I call Eco Electronic literature.
+# simranbhimjyani.in
+This website documents my PhD journey as a Digital Humanities Scholar
